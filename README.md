@@ -1,2 +1,2 @@
 # algori
-algorithm train
+algorithm train and LeetCode Exercise
